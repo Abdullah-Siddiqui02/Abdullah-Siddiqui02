@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Abdullah Siddiqui</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Software+Developer;DSA+%26+OOP+Learner+in+C++;Code.+Learn.+Improve.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Software+Developer;Code.+Learn.+Improve.+Repeat." alt="Typing SVG" />
 </p>
 
 ---
