@@ -1,11 +1,22 @@
-<!-- Profile README for Abdullah Siddiqui -->
-<!-- Designed with modern dark aesthetics -->
-
-<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Abdullah Siddiqui</span></h1>
+hijlhhkjl
+<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Arham Qureshi</span></h1>      
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Software+Developer;Code.+Learn.+Improve.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Code.+Debug.+Repeat" alt="Typing SVG" />
 </p>
+
+---
+ <!-- Stats Section -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Siddiqui02&show_icons=true&theme=transparent&hide_border=true&card_width=400" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Abdullah-Siddiqui02&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400" alt="GitHub Streak" />
+</p>
+
+
+<!-- Contribution Graph -->
+[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Siddiqui02&theme=github-compact&hide_border=true)](https://github.com/Abdullah-Siddiqui02)
+
 
 ---
 
