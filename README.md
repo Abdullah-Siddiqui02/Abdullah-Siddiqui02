@@ -1,11 +1,7 @@
-hijlhhkjl
-<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Arham Qureshi</span></h1>      
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Code.+Debug.+Repeat" alt="Typing SVG" />
-</p>
-
----
+<!-- Profile README for Abdullah Siddiqui -->
+<!-- Designed with modern dark aesthetics -->
+<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Abdullah Siddiqui</span></h1>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Software+Developer;Code.+Learn.+Improve.+Repeat." alt="Typing SVG" />
  <!-- Stats Section -->
 
 <p align="center">
